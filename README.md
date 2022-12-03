@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krushnapatil2000
-- 👀 I’m interested in languages like Java , CSS, Python , HTML.
+- 👀 I’m interested in languages like Java ,Python , HTML.
 - 🌱 I’m currently learning Java,Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me patil2019km@gmail.com
